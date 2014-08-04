@@ -31,5 +31,5 @@ def extract_quora_question(link):
     for link in list_of_questions:
         print link
 
-grab_quora_link('file:///home/fedor/Dropbox/Science/qa_spider/saved_pages/New%20Questions%20-%20Quora.html') #Сюда кидаем адрес страницы
+grab_quora_link('file:///home/fedor/Dropbox/Science/qa_spider/saved_pages/New%20Questions%20-%20Quora.html') #URL
 
